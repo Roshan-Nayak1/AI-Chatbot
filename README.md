@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-install :-  npm i -D prettier prettier-plugin-tailwindcss
+Automatic Class Sorting with Prettier install :-  npm i -D prettier prettier-plugin-tailwindcss
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
